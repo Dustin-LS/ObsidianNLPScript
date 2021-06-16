@@ -40,6 +40,3 @@ Now, navigate to the folder in the command line interface of your choice, and us
 Congratulations! You now have a functioning prototype of a Memex as I have written about in my paper
 "Memex II - Knowledge Creation Through Association"
 
-Authors
-Dustin Smith
-
