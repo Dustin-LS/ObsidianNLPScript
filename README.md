@@ -1,6 +1,6 @@
 # ObsidianNLPScript
 Memex II - Knowledge Creation Through Association
-Personal knowledge bases have been a topic of discussion amongst researchers for decades. Creating a consultable and dynamic tool for knowledge creation has been a goal of many researchers throughout the last century. Through the advent of newer technologies I believe a proper interface for a knowledge base is finally possible. This repo attempts to integrate Natural language processing through NLTK and Gensim ptyon libraries and a third party app "Obsidian" to create a Memex, as coined by Vannevar Bush in 1945.
+Personal knowledge bases have been a topic of discussion amongst researchers for decades. Creating a consultable and dynamic tool for knowledge creation has been a goal of many researchers throughout the last century. Through the advent of newer technologies I believe a proper interface for a knowledge base is finally possible. This repo attempts to integrate Natural language processing through NLTK and Gensim python libraries and a third party app "Obsidian" to create a Memex, as coined by Vannevar Bush in 1945.
 
 These instructions will get you a copy of the project up and running on your local machine for testing and research purposes.
 
