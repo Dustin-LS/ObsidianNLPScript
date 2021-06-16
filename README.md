@@ -33,7 +33,7 @@ Once you are in the file, set the path variable to the path of your obsidian fil
 Now, before running the python script, ensure you back up your obsidian file folder. 
 The python script will attempt to read and edit every file in the folder structure. 
 
-I recommend keeping the python script in a file of it's own, as it spawns a few support files in whatever file it lives in.
+I recommend keeping the python script in a directory of it's own, as it spawns a few support files in whatever directory it lives in.
 
 Now, navigate to the folder in the command line interface of your choice, and use the command 'py MarkDownTagger.py' to have the script find tags and associations automatically for your files.  
 
