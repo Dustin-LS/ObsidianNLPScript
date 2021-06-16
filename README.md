@@ -25,8 +25,8 @@ spacy
 Here is a complete list of all libraries that are used, in case you run into any troubles:
 os, nltk, gensim, random, pickle, spacy, shutil
 
-in the 'StableScriptBackup' folder of the repo, there will be a python script labelled
-"MarkDownTagger.py"
+in the root directory of the repo, there will be a python script labelled
+"MDTagger.py"
 
 Open this file using the rich text editor of your choice. Notepad++ will do fine, but I prefer Visual Studio Code.
 Once you are in the file, set the path variable to the path of your obsidian file folder. 
